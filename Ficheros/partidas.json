@@ -1,0 +1,13 @@
+{
+    "partidas": [
+        {
+            "nombre": "sebas",
+            "nivel": 1,
+            "vida": 10,
+            "pociones": 2,
+            "experiencia": 43,
+            "victorias": 1,
+            "derrotas": 0
+        }
+    ]
+}
